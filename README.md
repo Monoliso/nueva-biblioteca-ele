@@ -9,4 +9,4 @@ El programa se hizo en PowerShell por sus utilidades para interactuar con el for
 
 ## Diseño
 
-Se plantea como un comando, por lo que su funcionamiento es global, permite enviar los documentos ubicados en cualquier directorio, y su salida será generada dentro del mismo. La salida es un archivo HTML con el mismo nombre.
+La entrada del programa es la dirección del documento RTF a traducir. La salida será un archivo HTML con el mismo nombre ubicado en el mismo directorio que la entrada.
